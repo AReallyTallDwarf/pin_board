@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # pin_board
+https://medium.com/@deallen7/how-to-build-a-pinterest-clone-in-ruby-on-rails-bf69ca977352#2bfbhttps://medium.com/@deallen7/how-to-build-a-pinterest-clone-in-ruby-on-rails-bf69ca977352#2bfb
